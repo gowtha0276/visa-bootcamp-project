@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "\"Visa Bootcamp Project\"",
+  "main": "router.js",
+  "scripts": {
+    "start": "node router.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "js-beautify": "^1.10.2",
+    "mongodb": "^3.3.5",
+    "mongoose": "^5.7.13",
+    "path": "^0.12.7"
+  },
+  "author": "\"Gowtham and Shashank\"",
+  "license": "ISC"
+}
